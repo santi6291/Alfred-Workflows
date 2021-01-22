@@ -1,13 +1,13 @@
 # Connect / Disconnect to VPN with Alfred
 
-# vpn on
+## vpn on
 
 Will list saved VPN services 
 
 ![vpn on example](/VPN%20Connections/images/vpn-on.png)
 
 
-# vpn off
+## vpn off
 
 Will disconnect from connected VPN
 
